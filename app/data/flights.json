@@ -1,0 +1,62 @@
+[
+  {
+    "flight_number": "6E-101",
+    "origin": "DEL",
+    "destination": "BOM",
+    "departure": "2026-04-10T06:00:00",
+    "arrival": "2026-04-10T08:15:00",
+    "aircraft_type": "A320",
+    "total_seats": 180,
+    "available_seats": 42,
+    "cabin_classes": {
+      "ECONOMY": { "available": 38, "fare_INR": 4500 },
+      "BUSINESS": { "available": 4, "fare_INR": 12000 }
+    },
+    "status": "SCHEDULED"
+  },
+  {
+    "flight_number": "6E-202",
+    "origin": "BOM",
+    "destination": "BLR",
+    "departure": "2026-04-10T09:30:00",
+    "arrival": "2026-04-10T11:00:00",
+    "aircraft_type": "A320",
+    "total_seats": 180,
+    "available_seats": 15,
+    "cabin_classes": {
+      "ECONOMY": { "available": 12, "fare_INR": 3800 },
+      "BUSINESS": { "available": 3, "fare_INR": 9500 }
+    },
+    "status": "SCHEDULED"
+  },
+  {
+    "flight_number": "6E-303",
+    "origin": "DEL",
+    "destination": "BLR",
+    "departure": "2026-04-10T14:00:00",
+    "arrival": "2026-04-10T17:30:00",
+    "aircraft_type": "A321",
+    "total_seats": 220,
+    "available_seats": 0,
+    "cabin_classes": {
+      "ECONOMY": { "available": 0, "fare_INR": 5200 },
+      "BUSINESS": { "available": 0, "fare_INR": 14000 }
+    },
+    "status": "SOLD_OUT"
+  },
+  {
+    "flight_number": "6E-404",
+    "origin": "HYD",
+    "destination": "DEL",
+    "departure": "2026-04-10T18:45:00",
+    "arrival": "2026-04-10T21:00:00",
+    "aircraft_type": "A320",
+    "total_seats": 180,
+    "available_seats": 91,
+    "cabin_classes": {
+      "ECONOMY": { "available": 88, "fare_INR": 4100 },
+      "BUSINESS": { "available": 3, "fare_INR": 11000 }
+    },
+    "status": "SCHEDULED"
+  }
+]
